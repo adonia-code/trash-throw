@@ -1,0 +1,2 @@
+# trash-throw
+keep clean
